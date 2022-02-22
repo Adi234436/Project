@@ -1,0 +1,9 @@
+djangorestframework
+psycopg2-binary
+django-filter
+Pillow
+social-auth-app-django
+celery
+redis
+drf-yasg
+djangorestframework-simplejwt
